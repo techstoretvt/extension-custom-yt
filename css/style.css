@@ -1,14 +1,14 @@
-#content {
+#content.style-scope.ytd-app {
     max-height: 100vh !important;
     overflow-y: hidden !important;
 }
 
-#primary {
+#primary.style-scope.ytd-watch-flexy {
     max-height: 100vh !important;
     overflow-y: auto !important;
 }
 
-#secondary {
+#secondary.style-scope.ytd-watch-flexy {
     max-height: 90vh !important;
     overflow-y: auto !important;
 }
