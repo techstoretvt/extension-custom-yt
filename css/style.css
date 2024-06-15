@@ -1,5 +1,5 @@
-.style-scope.ytd-page-manager.watch-root-element.hide-skeleton {
-    max-height: calc(-56px + 100vh) !important;
+#content {
+    max-height: 100vh !important;
     overflow-y: hidden !important;
 }
 
