@@ -1,6 +1,11 @@
-#content.style-scope.ytd-app {
+ytd-app[darker-dark-theme] #content.style-scope.ytd-app {
     max-height: 100vh !important;
     overflow-y: hidden !important;
+}
+
+ytd-app[guide-persistent-and-visible] #content.style-scope.ytd-app {
+    max-height: unset !important;
+    overflow-y: unset !important;
 }
 
 #primary.style-scope.ytd-watch-flexy {
