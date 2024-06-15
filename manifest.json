@@ -15,7 +15,7 @@
                 "css/style.css"
             ],
             "matches": [
-                "https://www.youtube.com/watch*"
+                "https://www.youtube.com/*"
             ]
         }
     ]
