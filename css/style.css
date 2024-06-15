@@ -1,0 +1,18 @@
+.style-scope.ytd-page-manager.watch-root-element.hide-skeleton {
+    max-height: calc(-56px + 100vh) !important;
+    overflow-y: hidden !important;
+}
+
+#primary {
+    max-height: 100vh !important;
+    overflow-y: auto !important;
+}
+
+#secondary {
+    max-height: 90vh !important;
+    overflow-y: auto !important;
+}
+
+#primary-inner {
+    min-height: 1300px !important;
+}
